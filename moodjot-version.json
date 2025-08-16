@@ -1,0 +1,14 @@
+        {
+          "android": {
+            "minimumVersionName": "1.0.0",
+            "minimumVersionCode": 54
+          },
+          "ios": {
+            "minimumVersion": "1.0.0",
+            "minimumBuildNumber": 54
+          },
+          "storeUrl": {
+            "android": "https://play.google.com/store/apps/details?id=com.iprettyjour.moodjot",
+            "ios": "https://apps.apple.com/app/idYOUR_APP_ID"
+          }
+        }
